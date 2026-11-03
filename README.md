@@ -1,0 +1,2 @@
+# Scalable-E-commerce-microservices-architecture
+Scalable e-commerce microservices architecture with API Gateway, 9 decoupled services, Kafka event-driven Saga for checkout, idempotency keys &amp; atomic inventory reservations to prevent overselling &amp; duplicate payments. Features CDN, Redis caching, PCI-DSS payments. Stack: Java 21, Spring Boot, PostgreSQL, Redis, OpenSearch, Docker, Kubernetes.
